@@ -6,4 +6,4 @@ Notes:
 - In order to help myself understand what was being asked, I made diagrams. See below.
 
 ## Example 1: Empty Cache
-![weatherDiagram](https://imgur.com/a/aNIY13b)
+![weatherDiagram](./weatherRelay.jpg)
